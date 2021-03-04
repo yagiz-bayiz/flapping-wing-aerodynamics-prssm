@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/yagizefeb/GPSSM/GPSSM_Data/Output_Data/20_08_15_IN_LK7Normalized_OUT_FMwoFa5_Dimx12_Epochs1000_512Train_with old update//model.ckpt"
+all_model_checkpoint_paths: "/home/yagizefeb/GPSSM/GPSSM_Data/Output_Data/20_08_15_IN_LK7Normalized_OUT_FMwoFa5_Dimx12_Epochs1000_512Train_with old update//best.ckpt"
+all_model_checkpoint_paths: "/home/yagizefeb/GPSSM/GPSSM_Data/Output_Data/20_08_15_IN_LK7Normalized_OUT_FMwoFa5_Dimx12_Epochs1000_512Train_with old update//model.ckpt"
