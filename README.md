@@ -1,5 +1,5 @@
 # Modelling Flapping Wing Aerodynamics with PR-SSM
-This is the companion code for the state-space modelling of flapping wing aerodynamics with Probabilistic Recurrent State-Space Models (PR-SSM) (Doerr et al., ICML 2018). The results of this study is reported in the manuscript "State-space aerodynamic model reveals high force control authority and predictability in flapping flight" (**https://arxiv.org/abs/2103.07994**). Please cite the above paper when reporting, reproducing or extending the results. The majority of the code for modelling the aerodynamics with PR-SSM was modified from the source code (**https://github.com/boschresearch/PR-SSM**).
+This is the companion code for the state-space modelling of flapping wing aerodynamics with Probabilistic Recurrent State-Space Models (PR-SSM) (Doerr et al., ICML 2018). The results of this study is reported in the manuscript "State-space aerodynamic model reveals high force control authority and predictability in flapping flight" (**https://arxiv.org/abs/2103.07994**). The majority of the code for modelling the aerodynamics with PR-SSM was modified from the source code (**https://github.com/boschresearch/PR-SSM**).
 
 ## Prerequisites
 The PR-SSM code implemented here depends on Tensorflow 1.14 (Tensorflow-gpu is prefered). The data sets used in this study is available at **doi:10.17632/cjj6y9ryms.1**.
