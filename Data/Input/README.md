@@ -1,4 +1,4 @@
-Store the flapping wing aerodynamics data (**flapping_wing_aerodynamics.mat**) and the LRQSM data (**flapping_wing_aerodynamics_lasso_fit**) here  (add_link).
+Store the flapping wing aerodynamics data (**flapping_wing_aerodynamics.mat**) and the LRQSM data (**flapping_wing_aerodynamics_lasso_fit**) here  **https://doi.org/10.5061/dryad.zgmsbccbs**.
 
 The input data file **flapping_wing_aerodynamics.mat** includes the time history of:\
 • [Euler angles of the wing] - **ds_pos** (stroke, deviation, rotation),\
